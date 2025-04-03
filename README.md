@@ -55,7 +55,3 @@ Entries are stored in `~/.jrnl/records`. The editor is `nano`.
 ## License
 
 MIT
-
----
-
-_Built with ❤️ by Henil Malaviya_
